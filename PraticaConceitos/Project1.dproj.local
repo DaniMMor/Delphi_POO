@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/05 17:21:34.000.671,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 22:16:57.000.789,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/26 15:49:30.000.321,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/12 22:26:36.000.675,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/25 21:16:21.000.704,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/25 21:26:49.000.346,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/25 21:27:54.000.303,C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit2.pas</Transaction>
+    <Transaction>2018/09/25 21:27:59.000.752,C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit1.pas</Transaction>
+    <Transaction>2018/09/25 21:27:59.000.752,C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit1.dfm</Transaction>
+    <Transaction>2018/09/25 21:28:01.000.659,C:\Users\w7\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\w7\Documents\GitHub\Delphi_POO\Project1.dproj</Transaction>
+    <Transaction>2018/09/25 21:41:17.000.022,C:\Users\w7\Documents\GitHub\Delphi_POO\Unit1.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\View.Principal.pas</Transaction>
+    <Transaction>2018/09/25 21:41:17.000.022,C:\Users\w7\Documents\GitHub\Delphi_POO\Unit1.dfm=C:\Users\w7\Documents\GitHub\Delphi_POO\View.Principal.dfm</Transaction>
+    <Transaction>2018/09/25 21:41:27.000.235,C:\Users\w7\Documents\GitHub\Delphi_POO\Unit2.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\Classe.Pessoa.pas</Transaction>
+    <Transaction>2018/09/26 22:23:00.000.712,=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit3.pas</Transaction>
+    <Transaction>2018/09/26 22:23:18.000.364,C:\Users\w7\Documents\GitHub\Delphi_POO\Classe.Cliente.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit3.pas</Transaction>
+    <Transaction>2018/09/30 19:56:42.794,=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit3.pas</Transaction>
+    <Transaction>2018/09/30 19:56:58.121,C:\Users\w7\Documents\GitHub\Delphi_POO\Classe.Endereco.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/05 17:21:34.000.671,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/17 22:16:57.000.789,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/26 15:49:30.000.321,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/12 22:26:36.000.675,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 21:47:23.000.312,=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 21:49:05.000.063,C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\View.Principal.dfm=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/10/01 21:49:05.000.063,C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\View.Principal.pas=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 21:49:07.000.614,C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Project1.dproj=C:\Users\w7\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/10/01 22:05:12.000.195,=C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 22:05:24.000.959,C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Classe.Pessoa.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 22:10:20.000.149,=C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 22:10:31.000.206,C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Classe.Vendedor.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 22:18:28.000.447,=C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 22:19:48.000.176,C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Classe.Administrativo.pas=C:\Users\w7\Documents\GitHub\Delphi_POO\PraticaConceitos2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
